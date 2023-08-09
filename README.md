@@ -2,7 +2,7 @@
 
 ## Description
 
-`mp4-transcribe` is a Python-based tool that transcribes MP4 audio files to SRT (SubRip Text) subtitle files. It leverages the power of machine learning and natural language processing to accurately transcribe audio, making it a valuable resource for content creators, video editors, and accessibility advocates.
+`mp4-transcribe` is a Python-based tool that transcribes MP4 video files to SRT (SubRip Text) subtitle files. It leverages the power of machine learning and natural language processing to accurately transcribe audio, making it a valuable resource for content creators, video editors, and accessibility advocates.
 
 ## Features
 
