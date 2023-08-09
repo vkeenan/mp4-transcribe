@@ -6,7 +6,7 @@
 
 ## Features
 
-- Transcribes MP4 audio files to SRT format
+- Transcribes MP4 video files to SRT format
 - Utilizes the Whisper model for accurate transcription
 - Supports execution via Google Colab or local workstations
 - Simple and efficient Python codebase
